@@ -1,7 +1,11 @@
 # CS6910 Assignments
 Solutions to assignments of CS6910 Fundamentals of Deep Learning, Summer 2020
 
-Solutions to Assignments 2, 3 and 4 have been added. The content has been briefly described below.
+Solutions to Assignments 1, 2, 3 and 4 have been added. The content has been briefly described below.
+
+## Assignment 1
+
+A miniature neural network architecture has been implemented using NumPy and smaller helper packages. The architecture is capable of learning non-linear regression and classification tasks.
 
 ## Assignment 2
 
